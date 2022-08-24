@@ -13,9 +13,9 @@ let database = new sdk.Databases(client)
 
 //init sdk
 client
-    .setEndpoint("Server.endpoint")
-    .setProject("Server.project")
-    .setKey("Server.secretKey")
+    .setEndpoint("http://appwrite.whitlocktech.com/v1")
+    .setProject("630100eef1bdfc27d173")
+    .setKey("1372342d81428b35110a6a71fcde51d6a689ca8d167527cf8e6ae0e78e931845a1f850604cbd0052c00099529aea2754a64b7d25f8650e15c425d586d77d76dc0d1b00d4e7872c7659937be8688a6e0312255377a3a9bad354d106501aa8760e7b0ea3383a5347f44a40a46db03a6c873c0898b1c3bb7e7233088f1a7ae821b6")
 //nbsp
 
 app.use(bodyParser.json())
