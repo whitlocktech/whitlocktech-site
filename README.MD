@@ -1,30 +1,35 @@
-## **Whitlocktech Website**
+# whitlocktech-site
 
-### **About**
+This template should help get you started developing with Vue 3 in Vite.
 
-This is the basis for the new and upcoming whitlocktech website, and learning for other future projects.
+## Recommended IDE Setup
 
-### **Tech Stack**
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-The Techstack that is used and i plan to update frequently:
+## Customize configuration
 
-*   Vue
-*   Vite
-*   Vue-Router
-*   Vite
-*   appwrite
-*   node-appwrite
-*   nodejs
-*   express
-*   Tailwindcss
+See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-#### **Learning**
+## Project Setup
 
-I am still very new to programing and used to sysadmin and bash. I will gladly take any advice you have to offer, and will take PR from people as long as you also explained what i did wrong and how i can fix it.
+```sh
+npm install
+```
 
-#### Resources I looked and and pieced together to start making this.
+### Compile and Hot-Reload for Development
 
-*   [https://github.com/MooseSaeed/Tailwinder](https://github.com/MooseSaeed/Tailwinder)
-*   [https://github.com/appwrite/demo-todo-with-vue](https://github.com/appwrite/demo-todo-with-vue)
-*   [https://github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)
-*   [https://appwrite.io/docs/](https://appwrite.io/docs/)
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```
