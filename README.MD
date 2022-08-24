@@ -27,3 +27,4 @@ I am still very new to programing and used to sysadmin and bash. I will gladly t
 *   [https://github.com/MooseSaeed/Tailwinder](https://github.com/MooseSaeed/Tailwinder)
 *   [https://github.com/appwrite/demo-todo-with-vue](https://github.com/appwrite/demo-todo-with-vue)
 *   [https://github.com/Lissy93/dashy](https://github.com/Lissy93/dashy)
+*   [https://appwrite.io/docs/](https://appwrite.io/docs/)
